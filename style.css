@@ -1,0 +1,43 @@
+/* element selector
+h1 {
+    color: blue;
+}
+/* 
+/* id selector */
+/* #text{
+    color: red;
+} */ 
+
+/* class attibute */
+/* .ledor{
+    color: green;
+}
+
+.max{ */
+    /* color: pink;
+} */ 
+
+/* attribute selector */
+/* h1[class="ledor"] {
+    color: cadetblue;
+} */
+
+/* descendants selector */
+/* main p{
+    color:red
+} */
+
+/* sibling selector */
+/* .p-one ~ p {
+    color: purple;
+} */
+
+/* multiple selector */
+/* #text, .ledor{
+    color: red;
+} */
+
+/* universal selector */
+/* * {
+    color: blue;
+} */
